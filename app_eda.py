@@ -33,7 +33,7 @@ st.markdown('<div class="center-container big-title">📊 Student Score EDA by A
 st.markdown('<div class="center-container subtitle">Interactive exploratory data analysis — play with charts and download cleaned data.</div>', unsafe_allow_html=True)
 
 # ---------- Load data (use exact uploaded local path) ----------
-DATA_PATH = "/mnt/data/student_scores (1).csv"
+DATA_PATH = "student_scores (1).csv"
 try:
     df = pd.read_csv(DATA_PATH)
 except Exception as e:

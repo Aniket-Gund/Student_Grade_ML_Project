@@ -1,5 +1,7 @@
 # **📘 Student Performance Prediction – ML Project Overview**
 
+## **Direct Live Link: https://studentgrademlproject-sxowdxn29azwbxywikk8br.streamlit.app/ **
+
 ## **🎯 Objective:**
 
 The aim of this Machine Learning project is to predict a student’s final score based on key academic behavior factors such as study hours, attendance, and assignment submission frequency.
